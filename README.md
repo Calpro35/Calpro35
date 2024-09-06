@@ -33,7 +33,7 @@ Sou um desenvolvedor Web apaixonado por tecnologia criar interfaces excepcionais
 ## 💼 Projetos em Destaque
 
 * [dashboard Ifood](www...) - [em desenvolvimento]
-* [My life finaças ](www) - [em desenvolvimento]
+* [My life finanças ](www) - [em desenvolvimento]
 
 ## 📫 Contato
 
