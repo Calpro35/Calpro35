@@ -1,6 +1,5 @@
-# Olá, sou @Carlos! 👋
+DESENVOLVEDOR FULL-STACK
 
-Sou um desenvolvedor Web apaixonado por tecnologia criar interfaces excepcionais e experiências digitais envolventes.
 
 ## 🚀 Habilidades e Tecnologias
 
