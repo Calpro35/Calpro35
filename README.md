@@ -32,7 +32,7 @@ DESENVOLVEDOR FULL-STACK
 ## 💼 Projetos em Destaque
 
 * [dashboard Ifood](www...) - [em desenvolvimento]
-* [My life finanças ](www) - [em desenvolvimento]
+* [My life finanças ] 
 
 ## 📫 Contato
 
