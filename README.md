@@ -13,7 +13,7 @@ DESENVOLVEDOR FULL-STACK
 
 ### Front-end
 
-* HTML5, CSS3, JavaScript
+* HTML5, CSS3, JavaScript,TypeScript
 * React, Angular, Vue
 * Bootstrap, Tailwind CSS
 
